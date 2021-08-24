@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mikabyte
-- 👀 I’m interested in Linux and penetration testing as well as Tor and DuckDuckGo.
+- 👀 I’m interested in Linux, penetration testing, Python, and Java as well as Tor and DuckDuckGo.
 - 🌱 I’m currently learning Linux and Terminal Commands.
 - 💞️ I’m looking to collaborate on creating programs and tools.
 - 📫 How to reach me macziki393@gmail.com
